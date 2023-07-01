@@ -1,0 +1,13 @@
+* Give an idea of R Data Types.
+
+* R as a calculator: Perform some arithmetic operations in R
+
+* Demonstrate the process of creating a user defined function in R.
+
+* Perform some logical operations in R.
+
+* Write an R script to change the structure of a Data frame.
+
+* Write R script to demonstrate loops.
+
+* 

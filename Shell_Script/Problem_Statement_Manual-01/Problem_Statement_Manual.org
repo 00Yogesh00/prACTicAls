@@ -1,0 +1,55 @@
+* Write a Shell Script that accepts  file name, starting and ending line numbers as arguments(input) and displays all the lines between the given line numbers.
+
+- Input: file name, starting line numbers, ending line numbers.
+   #+begin_src
+     #!/bin/sh
+     
+     tail +$2 $1 | head -n`expr $3 - $2` 
+     
+   #+end_src
+OR
+   #+begin_src
+  
+
+   #+end_src
+  
+- Processing:
+  #+begin_src
+  
+
+  #+end_src
+  
+- Output: Display all the lines between the given line numbers.
+  #+begin_src
+  
+
+  #+end_src 
+
+* Write a Shell Script that deletes all lines containing a specified word in one or more files supplied as arguments to it.
+
+- Input: word, file name
+- Output:
+- Processing:
+  #+begin_src
+
+  #+end_src
+
+* Write a Shell Script that displays list of all the files in the current directory to which the user has read, write and execute permissions.
+
+- Input:
+- Output: list of all files and directory
+- Processing:
+  #+begin_src
+
+  #+end_src
+
+* Write a Shell Script that receives any number of file names as arguments checks if every argument supplied is a file or a directory and reports accordingly. Whenever the arguments is a file, the number of lines on it is reported.
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+
+  #+end_src
+
+  

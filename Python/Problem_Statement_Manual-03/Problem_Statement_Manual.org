@@ -1,0 +1,48 @@
+* Demonstrate about Basics of Python Programming.
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+* Demonstrate about fundamental Data types in Python Programming.
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+* Demonstrate about the working of following functions in Python.
+methods:
+   - id()
+   - type()
+   - range()
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+  
+* Write a Python program to demonstrate various base conversion functions.
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+* Write a Python program to demonstrate various type conversion functions.
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src

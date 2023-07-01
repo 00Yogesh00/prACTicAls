@@ -1,0 +1,9 @@
+* Write a R program to take input from the user (name and age) and  display the values. Also print the version of R installation.
+
+* Write a R program to get the details of the objects in memory.
+
+* Write a R program to create a sequence of numbers from 20 to 50 and find the mean of numbers from 20 to 60 and sum of numbers from 51 to 91.
+
+* Write a R program to create a simple bar plot of five subjects marks.
+
+

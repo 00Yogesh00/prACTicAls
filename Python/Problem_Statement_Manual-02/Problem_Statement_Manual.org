@@ -1,0 +1,89 @@
+* Create a list and perform the following methods
+methods:
+   - insert()
+   - remove()
+   - append()
+   - len()
+   - pop()
+   - clear()
+       
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+ 
+* Create a dictionary and apply the following methods
+methods:
+   - Print the directory items
+   - access items
+   - use get()
+   - change vlues
+   - use len()
+
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+  
+* Creae a tuple and perform the following methods
+methods:
+   - Add items
+   - len()
+   - check for item in tuple
+   - Access items
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+* Write a python program to add two numbers.
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+  
+* Write a python program to print a number is positive/negative using /if-else/
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+  
+* Write a python program to find largest number among three numbers
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+
+* Write a python program to read a number and display corresponding day using if_elif_else?
+
+- Input:
+- Output:
+- Processing:
+  #+begin_src
+    
+  #+end_src
+
+  
+
